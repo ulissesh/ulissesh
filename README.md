@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <img src=https://i.imgur.com/gk7j4bI.png width="80"> 
+  <img alt="IMG" src= "https://readme-typing-svg.herokuapp.com?font=garamond&size=23&duration=4000&color=FFFF&center=true&lines=Bem+vindo+ao+meu+portfólio" > 
+     </a> <img src=https://i.imgur.com/sNX5gDV.png width="80">
+</div>
 
-<!--
-**ulissesh/ulissesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center style="display: inline_block"></br>
+  <img align="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-Here are some ideas to get you started:
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="css" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 style="color:#FFFF; text-align:center; margin:0 auto;">Rede Social e Contato</h4>
+ 
+ <span style="display: block; text-align: center;">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulisseshenriqueoliveira/)
+[![Email ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulissesholiveiraf@gmail.com)</span>
+<h5 style="color=#FFFF, text-align:center; margin;0 auto;">Volte sempre 💻👍</h5>
+</div>
