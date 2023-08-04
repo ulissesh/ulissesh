@@ -4,7 +4,11 @@
      </a> <img src=https://i.imgur.com/sNX5gDV.png width="80">
 </div>
 
-<div align=center style="display: inline_block"></br>
+<div align="center">
+<h4 style="color:#FFFF; text-align:center; margin:0 auto;">Main Skills:</h4>
+</div>
+
+<div align=center style="display: inline_block">
   <img align="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
