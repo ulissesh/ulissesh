@@ -1,6 +1,6 @@
 <div align="center">
   <img src=https://i.imgur.com/gk7j4bI.png width="80"> 
-  <img alt="IMG" src= "https://readme-typing-svg.herokuapp.com?font=garamond&size=23&duration=4000&color=FFFF&center=true&lines=Bem+vindo+ao+meu+portfólio" > 
+  <img alt="IMG" src= "https://readme-typing-svg.herokuapp.com?font=garamond&size=23&duration=4000&color=FFFF&center=true&lines=Welcome+to+my+portfolio" > 
      </a> <img src=https://i.imgur.com/sNX5gDV.png width="80">
 </div>
 
@@ -19,5 +19,5 @@
  
  <span style="display: block; text-align: center;">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulisseshenriqueoliveira/)
 [![Email ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulissesholiveiraf@gmail.com)</span>
-<h5 style="color=#FFFF, text-align:center; margin;0 auto;">Volte sempre 💻👍</h5>
+<h5 style="color=#FFFF, text-align:center; margin;0 auto;">💻👍</h5>
 </div>
