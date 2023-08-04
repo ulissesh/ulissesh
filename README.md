@@ -15,7 +15,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></br>
 
-<h4 style="color:#FFFF; text-align:center; margin:0 auto;">Rede Social e Contato</h4>
+<h4 style="color:#FFFF; text-align:center; margin:0 auto;">Media:</h4>
  
  <span style="display: block; text-align: center;">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulisseshenriqueoliveira/)
 [![Email ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulissesholiveiraf@gmail.com)</span>
