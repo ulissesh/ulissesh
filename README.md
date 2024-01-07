@@ -1,6 +1,6 @@
 <div align="center">
   <img src=https://i.imgur.com/gk7j4bI.png width="80"> 
-  <img alt="IMG" src= "https://readme-typing-svg.herokuapp.com?font=garamond&size=23&duration=4000&color=FFFF&center=true&lines=Welcome+to+my+portfolio" > 
+  <img alt="IMG" src= "https://readme-typing-svg.herokuapp.com?font=garamond&size=23&duration=4000&color=&center=true&lines=Welcome+to+my+portfolio" > 
      </a> <img src=https://i.imgur.com/sNX5gDV.png width="80">
 </div>
 
