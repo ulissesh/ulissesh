@@ -1,6 +1,6 @@
 <div align="center">
   <img src=https://i.imgur.com/gk7j4bI.png width="80"> 
-  <img alt="IMG" src= "https://readme-typing-svg.herokuapp.com?font=garamond&size=23&duration=4000&color=7FFFD4&center=true&lines=Welcome+to+my+portfolio" > 
+  <img alt="IMG" src= "https://readme-typing-svg.herokuapp.com?font=garamond&size=23&duration=4000&color=FFFF&center=true&lines=Welcome+to+my+portfolio" > 
      </a> <img src=https://i.imgur.com/sNX5gDV.png width="80">
 </div>
 
@@ -9,7 +9,7 @@
 </div>
 
 <div align=center style="display: inline_block">
-  <img align="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
   <img align
