@@ -14,8 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 #### Back-end
-###### Node, Python
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)
+###### JavaScript, Node, Python
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,python)](https://skillicons.dev)
 
 #### DevOps
 ###### Linux, AWS
