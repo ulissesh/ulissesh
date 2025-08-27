@@ -10,8 +10,8 @@
 ### Minhas Habilidades
 
 #### Front-end
-###### HTML 5, CSS 3
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+###### JavaScript, HTML 5, CSS 3
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
 
 #### Back-end
 ###### JavaScript, Node, Python
