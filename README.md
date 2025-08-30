@@ -6,7 +6,7 @@
 
 <div align="center">
  
-<h4>Graduado em Análise e Desenvolvimento de Sistemas, com certificação AWS Cloud Practitioner.</h4>
+<h3>Graduado em Análise e Desenvolvimento de Sistemas, com certificação AWS Cloud Practitioner.</h3>
 <p>Conhecimentos em NodeJS, JS, Python, SQL, Power BI e banco de dados.
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h3>Minhas Habilidades:</h3>
+<h4>Minhas Habilidades:</h4>
 
 <h4>Front-end:</h4>
 <h5>JavaScript, HTML 5, CSS 3</h5>
