@@ -26,8 +26,6 @@
 
 <div align="center">
 
-<h4>Minhas Habilidades:</h4>
-
 <h4>Front-end:</h4>
 <h5>JavaScript, HTML 5, CSS 3</h5>
 <a href="https://skillicons.dev">
