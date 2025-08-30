@@ -24,33 +24,33 @@
 
 <div align="center">
 
-<h3>Minhas Habilidades</h3>
+<h3>Minhas Habilidades:</h3>
 
-<h4>Front-end</h4>
+<h4>Front-end:</h4>
 <h5>JavaScript, HTML 5, CSS 3</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=javascript,html,css">
 </a>
 
-<h4>Back-end</h4>
+<h4>Back-end:</h4>
 <h5>JavaScript, Node, Python</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,python">
 </a>
 
-<h4>DevOps</h4>
+<h4>DevOps:</h4>
 <h5>Linux, AWS</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,aws">
 </a>
 
-<h4>Database</h4>
+<h4>Database:</h4>
 <h5>MySQL</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql">
 </a>
 
-<h4>Outras Tecnologias e Ferramentas</h4>
+<h4>Outras Tecnologias e Ferramentas:</h4>
 <h5>Jira, Splunk, Git, GitHub</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github">
