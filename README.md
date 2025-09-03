@@ -7,7 +7,7 @@
 <div align="center">
 <h3>
   Graduado em Análise e Desenvolvimento de Sistemas, com certificação em 
-  <a href="https://www.credly.com/badges/xxxx" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/badges/918e65e4-f650-4009-852f-ecfd3802a3ae/public_url" target="_blank" rel="noopener noreferrer">
     AWS Cloud Practitioner
   </a>.
 </h3>
